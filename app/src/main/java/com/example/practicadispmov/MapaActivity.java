@@ -114,7 +114,6 @@ public class MapaActivity extends AppCompatActivity implements OnMapReadyCallbac
 
 
     }
-
     @Override
     protected void onResume() {
 
