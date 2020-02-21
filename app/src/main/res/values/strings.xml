@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PracticaDispMov</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="nacionalidadUsu">Su nacionalidad es: </string>
+    <string name="telefonoUsu">Su telefono es: </string>
+    <string name="edadUsu">Su edad es: </string>
+    <string name="atras">Atras</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="gps">GPS</string>
+    <string name="internet">Internt</string>
+    <string name="camara">Camara</string>
+    <string name="imagenes">Imagenes</string>
+    <string name="creditos">Creditos</string>
+    <string name="salir">Salir</string>
+    <string name="david">Ramirez Valdes David Kevin</string>
+    <string name="yuyus">Gonzalez Camacho Yunuen Gabriela</string>
+    <string name="profesor">Profesor</string>
+    <string name="profesornombre">Pulido</string>
+    <string name="nombre_app">App pro</string>
+    <string name="desarrollador">Desarrolladores</string>
+    <string name="nombre">Nombre</string>
+    <string name="contrasenia">Contrasenia</string>
+    <string name="telefono">Telefono</string>
+
+
+</resources>
